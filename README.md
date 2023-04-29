@@ -1,8 +1,9 @@
 
-  <h1>Alan Chris Antony</h1>
-  <p> Python Developer</p>
+  #Alan Chris Antony
+  Python Developer
 
 
+[![My Profile](https://github.com/alanchrissantony?i=java,python,cpp,js,html,css,kotlin,nodejs,flutter,angular,arduino,bootstrap,cs,dotnet,fortran,idea,jquery,lua,powershell,swift,react,raspberrypi,r,php,nodejs)]
   <a href="https://github.com/alanchrissantony">
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alanchrissantony&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alanchrissantony&layout=compact&langs_count=7&theme=default"/>
