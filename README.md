@@ -1,8 +1,10 @@
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <div>
   <h1>Alan Chris Antony</h1>
   <p> Python Developer</p>
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </div>
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <div>
   <a href="https://github.com/alanchrissantony">
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alanchrissantony&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
