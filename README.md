@@ -5,8 +5,6 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=alanchrissantony)](https://github.com/alanchrissantony)
 [![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alanchrissantony)](https://github.com/alanchrissantony)
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alanchrissantony&layout=compact&langs_count=7&theme=default"/>
-
   
 
   <h2>About me</h2>
