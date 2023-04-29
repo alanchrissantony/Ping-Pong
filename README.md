@@ -1,1 +1,1 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=alanchrissantony.alanchrissantony) [![StandWithUkraine]
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=cosmohacker.cosmohacker) [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)]
