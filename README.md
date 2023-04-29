@@ -16,7 +16,7 @@
   
 <div style="display: inline_block"><br>
   <h2>Hard Skills</h2>
-  <img src="https://skillicons.dev/icons?i=py,linux,html,react,css,js,git,django,firebase,nodejs" />
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   
   <h2>Interesses</h2>
    <img src="https://skillicons.dev/icons?i=c,angular,cpp,java,ps" />
